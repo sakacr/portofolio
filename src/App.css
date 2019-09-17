@@ -1,0 +1,169 @@
+.header-color {
+  background: -webkit-linear-gradient(to left, rgba(164,195,35,1), rgba(164,195,35,1));
+  background: linear-gradient(to left, rgba(164,195,35,1), rgba(164,195,35,1));
+}
+
+.beranda-grid {
+  background: rgb(164,195,35);
+  background: linear-gradient(0deg, rgba(164,195,35,1) 0%, rgba(250,182,45,1) 60%);
+  text-align: center;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.projects-grid {
+  display: inline-block;
+}
+
+
+.avatar-img {
+  margin-top: 6em;
+  height: 250px;
+  width: 250px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.banner-text {
+  background-color: rgb(0, 0, 0);
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: whitesmoke;
+}
+
+.banner-text hr {
+  border-top: 5px dotted whitesmoke;
+  width: 60%;
+  margin: auto;
+}
+
+.banner-text p {
+  color: whitesmoke;
+  font-size: 30px;
+  padding: 1em;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+}
+
+
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
+.content-body {
+  background: -webkit-linear-gradient(rgb(162, 195, 34) 0%, rgba(250,182,45,1) 60%);
+  background: linear-gradient(rgba(164,195,35,1) 0%, rgba(250,182,45,1) 60%);
+  margin: auto;
+  position: relative;
+  width: auto;
+  height: auto;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.content-grid {
+  text-align: center;
+  justify-content: center;
+  position: relative;
+  width: 80%;
+  height: auto;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.content-grid hr {
+  border-top: 5px dotted black;
+  width: 50%;
+  margin: auto;
+}
+
+.content-grid2 {
+  width: 90%;
+  height: auto;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+  text-align: center;
+  margin-bottom: 35em;
+  padding-bottom: 20em;
+}
+
+.content-grid2 h4 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.content-grid2 p {
+  font-size: 20px;
+}
+
+.content-grid3 {
+  width: 90%;
+  height: 550px;
+  background: rgb(173, 173, 173);
+  color: black;
+  margin-bottom: 20px;
+}
+
+.content-grid4 {
+  width: 90%;
+  height: auto;
+  background: white;
+  color: black;
+  margin-bottom: 20px;
+  text-align: center;
+  margin-top: 20em;
+  margin-bottom: 35em;
+}
+
+.content-grid5 {
+  text-align: center;
+  justify-content: center;
+  position: relative;
+  width: 40%;
+  height: auto;
+  background: whitesmoke;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.content-grid5 hr {
+  border-top: 5px dotted rgb(162, 195, 34);
+  width: 80%;
+  margin: auto;
+}
+
+.content-list{
+  margin: 2em;
+  text-align: left;
+}
+
+.content-list i {
+  font-size: 28px;
+  text-align: center;
+}
+
